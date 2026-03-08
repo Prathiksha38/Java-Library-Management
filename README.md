@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library Management System (Java Console Application)
 
 ## Project Overview
@@ -94,3 +95,7 @@ Password: 345
 
 Prathiksha
 
+=======
+# Java-Library-Management
+Library_Module
+>>>>>>> 6c2330519155105715c37c91d7f886802853f08a
